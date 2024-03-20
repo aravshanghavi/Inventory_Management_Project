@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 32
+names: ['Button', 'Buzzer', 'Capacitor Jumper', 'Capacitor Network', 'Capacitor', 'Clock', 'Connector', 'Diode', 'EM', 'Electrolytic Capacitor', 'Electrolytic capacitor', 'Ferrite Bead', 'Flex Cable', 'Fuse', 'IC', 'Inductor', 'Jumper', 'Led', 'Pads', 'Pins', 'Potentiometer', 'RP', 'Resistor Jumper', 'Resistor Network', 'Resistor', 'Switch', 'Test Point', 'Transducer', 'Transformer', 'Transistor', 'Unknown Unlabeled', 'iC']
+
